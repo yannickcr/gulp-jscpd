@@ -1,0 +1,62 @@
+{
+  "name": "gulp-jscpd",
+  "version": "0.0.1",
+  "description": "Gulp plugin for JSCPD",
+  "keywords": [
+    "cpd",
+    "pmd",
+    "analyze",
+    "quality",
+    "copy",
+    "paste",
+    "jscpd",
+    "gulpplugin"
+  ],
+  "homepage": "https://github.com/yannickcr/gulp-jscpd",
+  "main": "./lib/gulp-jscpd.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha test --reporter=spec",
+    "coverage": "node ./node_modules/mocha/bin/mocha test --require blanket --reporter=html-cov > coverage.html",
+    "checkstyle": "node ./node_modules/jscs/bin/jscs ."
+  },
+  "config": {
+    "blanket": {
+      "pattern": [
+        "/lib/gulp-jscpd.js"
+      ]
+    }
+  },
+  "dependencies": {
+    "gulp-util": "^2.2.16",
+    "through2": "^0.5.1",
+    "jscpd": "^0.3.2",
+    "coffee-script": "^1.7.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "mocha-lcov-reporter": "^0.0.1",
+    "blanket": "^1.1.5",
+    "coveralls": "^2.10.0",
+    "chai": "^1.9.1",
+    "jscs": "^1.4.5",
+    "gulp": "^3.8.0",
+    "gulp-jscs": "^0.5.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/yannickcr/gulp-jscpd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yannickcr/gulp-jscpd.git"
+  },
+  "author": "Yannick Croissant (https://github.com/yannickcr)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/yannickcr/gulp-jscpd/master/LICENSE"
+    }
+  ]
+}

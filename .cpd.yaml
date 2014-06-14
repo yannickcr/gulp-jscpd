@@ -1,0 +1,10 @@
+path:
+  - .
+files:
+  - '**/*.js'
+languages:
+  - javascript
+  - js
+exclude:
+  - "node_modules/**"
+  - "reports/**"
