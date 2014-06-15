@@ -48,19 +48,19 @@ List of languages which scan for duplicates, default to `['javascript', 'coffees
 
 Type: `String`
 
-Path to report XML file.
+Path to report XML file, default to `null` (no report file).
 
 ### verbose
 
 Type: `Boolean`
 
-Show full info about copies.
+Show full info about copies, default to `false`.
 
 ### debug
 
 Type: `Boolean`
 
-Show debug information (options list and selected files).
+Show debug information (options list and selected files), default to `false`.
 
 # Tests
 
