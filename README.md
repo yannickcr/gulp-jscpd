@@ -3,7 +3,9 @@ gulp-jscpd
 
 [![Maintenance Status][status-image]][status-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][deps-image]][deps-url] [![Coverage Status][coverage-image]][coverage-url] [![Code Climate][climate-image]][climate-url]
 
-Gulp plugin for [JSCPD](https://github.com/kucherenko/jscpd).
+> Gulp plugin for the copy/paste detector [jscpd](https://github.com/kucherenko/jscpd).
+
+![](http://i.imgur.com/koeLzYb.png)
 
 # Installation
 

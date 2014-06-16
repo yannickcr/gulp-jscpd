@@ -1,7 +1,7 @@
 {
   "name": "gulp-jscpd",
   "version": "0.0.2",
-  "description": "Gulp plugin for JSCPD",
+  "description": "Gulp plugin for the copy/paste detector jscpd",
   "keywords": [
     "cpd",
     "pmd",
