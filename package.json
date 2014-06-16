@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "gulp-util": "^2.2.16",
-    "through2": "^0.5.1",
+    "through2": "^1.0.0",
     "jscpd": "^0.3.2",
     "coffee-script": "^1.7.1"
   },
