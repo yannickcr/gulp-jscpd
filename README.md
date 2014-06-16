@@ -16,7 +16,7 @@ var gulp  = require('gulp');
 var jscpd = require('gulp-jscpd');
 
 gulp.task('jscpd', function() {
-  gulp.src('**/*.js')
+  return gulp.src('**/*.js')
     .pipe(jscpd({
       'min-lines': 10,
       verbose    : true
