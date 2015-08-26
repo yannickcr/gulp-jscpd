@@ -64,6 +64,12 @@ Type: `Boolean`
 
 Show debug information (options list and selected files), default to `false`.
 
+### silent
+
+Type: `Boolean`
+
+Don't throw an error in case of duplicated occurrences (useful for CI), default to `false`.
+
 # Tests
 
 Run tests using mocha
