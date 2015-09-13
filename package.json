@@ -48,9 +48,6 @@
     "mocha": "^2.3.2",
     "mocha-lcov-reporter": "^0.0.2"
   },
-  "engines": {
-    "node": ">=0.10.0"
-  },
   "bugs": {
     "url": "https://github.com/yannickcr/gulp-jscpd/issues"
   },
