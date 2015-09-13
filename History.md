@@ -1,3 +1,14 @@
+0.0.5 / 2015-09-13
+==================
+
+  * add the `silent` option ([#3] @noodny)
+  * add support for the `reporter` option
+  * update jscpd ([#4])
+  * update dependencies
+
+[#3]: https://github.com/yannickcr/gulp-jscpd/pull/3
+[#4]: https://github.com/yannickcr/gulp-jscpd/issues/4
+
 0.0.4 / 2015-05-01
 ==================
 
@@ -20,4 +31,4 @@
 0.0.1 / 2014-06-15
 ==================
 
-  * Initial release
+  * initial release
