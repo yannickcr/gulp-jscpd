@@ -40,11 +40,17 @@ Type: `Number`
 
 Min size of duplication in code tokens, default to `70`.
 
+### reporter
+
+Type: `String`
+
+Reporter name or path to the [custom reporter](https://github.com/kucherenko/jscpd#reporters), default to `xml`.
+
 ### languages
 
 Type: `Array`
 
-List of languages which scan for duplicates, default to `['javascript', 'coffeescript', 'ruby', 'php', 'python', 'less']`.
+List of languages which scan for duplicates, default to `['javascript', 'typescript', 'jsx', 'haxe', 'coffeescript', 'ruby', 'php', 'python', 'css', 'java', 'csharp', 'go', 'clike', 'htmlmixed']`.
 
 ### output
 

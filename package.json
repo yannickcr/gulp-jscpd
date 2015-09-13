@@ -34,8 +34,9 @@
   "dependencies": {
     "gulp-util": "^3.0.4",
     "through2": "^1.1.1",
-    "jscpd": "^0.3.6",
-    "coffee-script": "^1.9.2"
+    "jscpd": "^0.4.2",
+    "coffee-script": "^1.9.2",
+    "winston": "^1.0.1"
   },
   "devDependencies": {
     "mocha": "^2.2.4",
