@@ -34,7 +34,7 @@
   "dependencies": {
     "coffee-script": "^1.10.0",
     "gulp-util": "^3.0.6",
-    "jscpd": "^0.4.2",
+    "jscpd": "0.4.2",
     "through2": "^2.0.0",
     "winston": "^1.0.1"
   },
