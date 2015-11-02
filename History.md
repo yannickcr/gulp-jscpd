@@ -1,3 +1,10 @@
+0.0.6 / 2015-11-02
+==================
+
+  * fix jscpd dependency to 0.4.2 ([#5][])
+
+[#5]: https://github.com/yannickcr/gulp-jscpd/issues/5
+
 0.0.5 / 2015-09-13
 ==================
 
