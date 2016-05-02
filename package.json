@@ -34,19 +34,19 @@
   "dependencies": {
     "coffee-script": "^1.10.0",
     "gulp-util": "^3.0.6",
-    "jscpd": "0.4.2",
+    "jscpd": "0.6.1",
     "through2": "^2.0.0",
-    "winston": "^1.0.1"
+    "winston": "^2.2.0"
   },
   "devDependencies": {
     "blanket": "^1.1.7",
     "chai": "^3.2.0",
     "coveralls": "^2.11.4",
     "gulp": "^3.9.0",
-    "gulp-jscs": "^2.0.0",
-    "jscs": "^2.1.1",
+    "gulp-jscs": "^3.0.2",
+    "jscs": "^3.0.3",
     "mocha": "^2.3.2",
-    "mocha-lcov-reporter": "^0.0.2"
+    "mocha-lcov-reporter": "^1.2.0"
   },
   "bugs": {
     "url": "https://github.com/yannickcr/gulp-jscpd/issues"
