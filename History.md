@@ -1,3 +1,10 @@
+0.0.7 / 2016-05-03
+==================
+
+  * update jscpd to 0.6.1 ([#6][])
+
+[#6]: https://github.com/yannickcr/gulp-jscpd/issues/6
+
 0.0.6 / 2015-11-02
 ==================
 
