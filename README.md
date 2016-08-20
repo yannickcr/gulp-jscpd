@@ -74,7 +74,13 @@ Show debug information (options list and selected files), default to `false`.
 
 Type: `Boolean`
 
-Don't throw an error in case of duplicated occurrences (useful for CI), default to `false`.
+Don't print a report summary, default to `false`.
+
+### failOnError
+
+Type: `Boolean`
+
+Don't throw an error in case of duplicated occurrences (useful for CI), default to `true`.
 
 # Tests
 
