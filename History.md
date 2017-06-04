@@ -1,3 +1,14 @@
+0.0.8 / 2017-06-04
+==================
+
+  * add `xsl-href` option ([#7] @riddla)
+  * add `failOnError` option ([#9] @aruiz14)
+  * update jscpd to 0.6.11
+  * update dependencies
+
+[#7]: https://github.com/yannickcr/gulp-jscpd/issues/7
+[#9]: https://github.com/yannickcr/gulp-jscpd/issues/9
+
 0.0.7 / 2016-05-03
 ==================
 
